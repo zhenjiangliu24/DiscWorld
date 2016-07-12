@@ -1,0 +1,102 @@
+id,name,text,action,playerID,type,order,used
+1,Mr Boggis,Take $2; if possible; from every other player,Scroll_PlaceMinion,-1,Green,29,1
+2,Mr Bent,Place this card in front of you and take a loan of $10 from the bank. At the end of the game you must pay back $12 or lose 15 point.,Scroll_PlayAnotherCard,-1,Green,55,0
+3,The Beggars' Guild,Select one player. They must give you two cards of their choice.,Scroll_PlaceMinion,-1,Green,33,0
+4,The Bank of Ankh-Morpork,Place this card in front of you and take a loan of $10 from the bank. At the end of the game you must pay back $12 or lose 15 point.,Scroll_PlayAnotherCard,-1,Green,97,0
+5,The Ankh-Morpork Sunshine Dragon Sanctuary,Each player must give you either $1 or one of their cards.,Scroll_PlayAnotherCard,-1,Green,48,0
+6,Segeant Angua,0,RemoveTroubleMarker_PlayAnotherCard,2,Green,8,1
+7,The Agony Aunts,0,Assassination_TakeMoney$2_PlaceMinion,2,Green,17,1
+8,The Dysk,Earn $1 for each minion in The Isle of Gods.,PlaceBuilding_Scroll,1,Green,69,1
+9,The Duckman,Move a minion belonging to another player from one area to adjacent area.,Scroll,-1,Green,57,1
+10,Drumknott,Play any two other cards from your hand.,Scroll,-1,Green,20,0
+11,CMOT Dibbler,Roll the die. On a roll of '7' or more you take $4 from the bank. On a roll of '1' you must pay $2 to the bank or remove one of your minions from the board. All other results have no effect.,Scroll_PlayAnotherCard,-1,Green,26,0
+12,Dr Cruces,0,Assassination_TakeMoney$3,2,Green,61,1
+13,Captain Carrot,0,PlaceMinion_RemoveTroubleMarker_TakeMoney$1,-1,Green,43,1
+14,Mrs Cake,Look at all but one of the unused Personality cards.,Scroll_TakeMoney$2_PlaceBuilding,-1,Green,35,1
+15,Groat,0,PlaceMinion,2,Green,13,1
+17,Gaspode,Stop a player from moving or removing one of your minions.,Interrupt,3,Green,46,1
+16,Gimlet's Dwarf Delicatessen,0,TakeMoney$3_$PlaceMinion,-1,Green,86,0
+19,Foul Ole Ron,Move a minion belonging to another player from one area to an adjacent area.,Scroll_PlayAnotherCard,2,Green,73,1
+18,Fresh Start Club,If you have a minion removed you can place him in a different area.,Interrupt,0,Green,91,1
+21,The Fire Bridge,Choose a player. If he does not pay you $5 then you can remove one of his building from the board.,Scroll_PlayAnotherCard,-1,Green,24,0
+20,The Fool's Guild,Select another player. If they do not give $5 then place this card in from of them. This card now counts towards their hand size of five cards when they come to refill their hand. They cannot get rid of this card.,Scroll_PlaceMinion,-1,Green,19,0
+23,History Monks,Shuffle the discard pile and draw four cards randomly.Place the remaining cards back as the discard pile.,Scroll_PlaceMinion,-1,Green,21,0
+22,Inigo Skimmer,0,Assassination_TakeMoney$2,1,Green,22,1
+25,Here's Now,Roll the die. On a roll of '7' or more you take $3 from a player of your choice. On a roll of '1' you must remove one of your minions from the board. All other results have no effect.,Scroll_PlayAnotherCard,-1,Green,93,0
+24,Hex,Take three cards from he draw deck.,Scroll_PlaceBuilding,-1,Green,21,0
+27,Harga's House of Ribs,0,TakeMoney$3_PlaceMinion,-1,Green,30,0
+26,Harry King,Discard as many cadrs as you wish and take $2 for each one discarded.,PlaceMinion_Scroll,-1,Green,58,0
+29,The Peeled Nuts,0,,0,Green,42,1
+28,Mr Gryle,0,Assassination_TakeMoney$1,3,Green,6,1
+31,Nobby Nobbs,Take $3 from a player of your choice.,Scroll_PlayAnotherCard,-1,Green,60,0
+30,The Opera House,Earn $1 for each minion in The Isle of Gods.,PlaceBuilding_Scroll,3,Green,63,1
+34,Librarian,Take four cards from the draw deck.,Scroll,-1,Green,71,0
+35,Leonard of Quirm,Take four cards from the draw deck.,Scroll,-1,Green,48,0
+32,Modo,Discard one card.,Scroll_PlaceMinion,1,Green,99,1
+33,The Mended Drum,0,PlaceBuilding_TakeMoney$2,-1,Green,76,0
+38,Rosie Palm,Choose one player. Give them one of your cards. They must give you $2 in return.,PlaceMinion_Scroll,-1,Green,46,0
+39,Rincewind,Move one of your minions from an area containing a trouble marker to an adjancent area.,RandomEvent_Scroll_PlayAnotherCard,3,Green,60,1
+36,Shonky Shop,Discard as many cadrs as you wish and take $1 for each one discarded.,Scroll_PlaceBuilding,0,Green,4,1
+37,Sacharissa Cripslock,Earn $1 for each trouble marker on the board.,Scroll_PlaceMinion,3,Green,16,1
+42,Pink PussyCat Club,0,TakeMoney$3_PlayAnotherCard,1,Green,9,1
+43,Zorgo the Retro-phrenologist,You may exchange your Personality card with one drawn randomly from those not in use.,Scroll_PlaceBuilding,3,Green,91,1
+40,The Royal Mint,0,PlaceBuilding_TakeMoney$5,-1,Green,36,0
+41,Queen Molly,Select one player. They must give you two cards of their choice.,PlaceMinion_Scroll,1,Green,69,1
+46,The Seamstresses Guild,Choose one player.Give them one of your card. They must give you $2 in return.,Scroll_PlaceMinion,-1,Green,32,0
+47,Mr Pin & Mr Tulip,The New Firm.,Assassination_TakeMoney$1,-1,Green,78,1
+44,Dr Whiteface,Select another player. If they do not give $5 then place this card in from of them. This card now counts towards their hand size of five cards when they come to refill their hand. They cannot get rid of this card.,Scroll_PlaceMinion,0,Green,1,1
+45,Wallace Sonky,You cannot be affected by the text on a card played by another player.,Interrupt,-1,Green,88,0
+48,The Thieves' Guild,Take $2; if possible; From every other player.,Scroll_PlaceMinion,0,Green,92,1
+102,Otto Chriek,Earn $1 for each trouble marker on the board.,Scroll_PlaceBuilding,-1,Brown,286,0
+103,The Clacks,Take two cards from the draw deck.,Scroll_TakeMoney$2_PlayAnotherCard,-1,Brown,288,0
+101,Sergeant,Take two cards from the draw deck.,Scroll_RemoveTroubleMarker,-1,Brown,209,0
+110,Cable Street Particulars,Select one player. Look at his cards. Choose one of them to be discarded.,Scroll_PlaceMinion,-1,Brown,203,0
+111,Canting Crew,Move a minion belonging to another player from one area to an adjacent area.,Scroll_PlaceMinion,-1,Brown,280,0
+108,Burleigh,Pay a player of your choice $2. Then choose a minion to assassinate.,Scroll_PlaceBuilding,-1,Brown,229,0
+109,The Bursar,Exchange the positions of any two minions on the board,RandomEvent_Scroll_PlayAnotherCard,-1,Brown,295,0
+106,The Dean,Remove one minion from Unreal Estate.,RandomEvent_Scroll_PlayAnotherCard,-1,Brown,213,0
+107,HELLO,0,Assassination_Assassination_PlaceBuilding,-1,Brown,269,0
+104,Sergeant Colon,0,RemoveTroubleMarker_PlaceMinion,-1,Brown,271,0
+105,Cosmo Lavish,Pay another player $2. They must then remove one minion of their choice(not one of yours) from an area with a trouble marker in it.,Scroll_PlayAnotherCard,-1,Brown,227,0
+119,The Alchemists Guild,Discard up to three cards and refill your hand to five cards.,Scroll_PlaceBuilding,-1,Brown,299,0
+118,Adora Belle Dearheart,Move one of your minions from one area to any other area on the board.,Scroll_PlaceMinion_PlaceBuilding,-1,Brown,240,0
+117,Deep Dwarves,Place a minion in any area and do not place a trouble marker.,Scroll_PlayAnotherCard,-1,Brown,243,0
+116,Sergeant Detritus,0,RemoveTroubleMarker_RemoveTroubleMarker,-1,Brown,298,0
+115,Dorfl,Move one of your minions from one area to any other area on the board.,Scroll_PlayAnotherCard,-1,Brown,267,0
+114,Sir Charles Lavatory,Earn $1 for each building on the board (any colour).,Scroll_PlaceBuilding,-1,Brown,211,0
+113,The Chair of Indefinite Studies,Exchange your hand with that of another player.,RandomEvent_Scroll_PlayAnotherCard,-1,Brown,272,0
+112,Carcer,Roll the die twice and remove one minion of your choice from those areas; even if there is no trouble there.,Scroll_PlayAnotherCard,-1,Brown,228,0
+127,William de Worde,Earn $1 for each trouble marker on the board.,PlaceMinion_Scroll,-1,Brown,256,0
+126,Wee Mad Arthur,You may build a building for half price.,Scroll,-1,Brown,232,0
+125,The Watch,0,PlaceBuilding_RemoveTroubleMarker,-1,Brown,270,0
+124,Mr Teatime,0,TakeMoney$3_Assassination_PlayAnotherCard,-1,Brown,258,0
+123,Sybil Vimes,Replace another player's building with one of your own. Pay the cost of the building to the original owner. It must be an area that does not have a trouble marker.,TakeMoney$3_Scroll,-1,Brown,203,0
+122,Susan,Stop one of your minions from being removed from the board.,Interrupt,-1,Brown,231,0
+121,Buggy Swires,0,RemoveTroubleMarker,-1,Brown,252,0
+120,The Auditors,Every other player; in player order; must remove one of their minions from the board.,Scroll,-1,Brown,269,0
+137,Doctor Mossy Lawn,Interrupt your own turn. Your turn finishs but do not discard the card you played before this one.,Interrupt,-1,Brown,294,0
+136,Moist von Lipwig,Take two cards from the draw deck.,PlaceMinion_TakeMoney$3_Scroll_PlayAnotherCard,-1,Brown,206,0
+139,Ponder Stibbons,Play any two other cards from your hand.,RandomEvent_Scroll,-1,Brown,211,0
+138,Patrician's Place,0,PlaceBuilding_TakeMoney$4_PlaceMinion,-1,Brown,288,0
+141,Reacher Gilt,You can replace another player's building with one of your own. Pay the cost of the building to the original owner. It must be an area that has a trouble marker in it.,Scroll,-1,Brown,289,0
+140,The Post Office,Take $1 for each building on the board.,Scroll_PlaceMinion,-1,Brown,272,0
+143,Doctor Hix,Place a trouble marker in an area of your choice.,RandomEvent_Scroll_PlayAnotherCard,-1,Brown,291,0
+142,Professor of Recent Runes,Take two cards from the draw deck.,RandomEvent_Scroll_PlayAnotherCard,-1,Brown,213,0
+129,Archchancellor,Place one or two minions in or adjacent to Unreal Estate.,RandomEvent_Scroll,-1,Brown,222,0
+128,Willikins,Place one minion in an area that you have a building in.,Scroll,-1,Brown,228,0
+131,The Senior Wrangler,Place one minion in or adjacent to Unreal Estate.,RandomEvent_Scroll_PlayAnotherCard,-1,Brown,237,0
+130,Ruby,0,PlaceMinion_PlaceBuilding,-1,Brown,251,0
+133,Mr Slant,Choose an area containing a trouble marker and receive $2 for each minion there.,Scroll_PlaceBuilding,-1,Brown,246,0
+132,Mr Shine,Place a minion in any area and do not place a trouble marker.,Scroll,-1,Brown,217,0
+135,Stanley,Select wo cards randomly from one player and choose one to keep. Return the other card.,Scroll_PlaceMinion,-1,Brown,214,0
+134,The Smoking Gnu,Place one minion in an area containing a trouble marker.,Scroll_PlayAnotherCard,-1,Brown,291,0
+152,Errol,Roll the die. On a roll of '7' or more you remove a minion of your choice from an area containing a trouble marker. On a roll of '1' you must remove one of your own minions.,Scroll_PlayAnotherCard,-1,Brown,297,0
+153,Gargoyles,Draw one card for each building you have on the board.,Scroll_PlaceBuilding,-1,Brown,245,0
+144,Hobsons's Livery Stable,Pay $2 to a player of your choice. Then move one of your minions to any area you wish.,Scroll_PlaceBuilding,-1,Brown,289,0
+145,Hubert,Force one player to give another player $3 (you cannot choose yourself).,Scroll_PlaceMinion,-1,Brown,286,0
+146,Igor,If you have a minion removed you can place him in a different area.,Interrupt,-1,Brown,250,0
+147,The Luggage,Discard one card.,Assassination_Scroll,-1,Brown,291,0
+148,The Mob,Place one trouble marker in an area adjacent to one already containing a trouble marker.,Scroll_PlaceMinion_PlayAnotherCard,-1,Brown,277,0
+149,Lord Downey,0,Assassination_TakeMoney$3_PlaceBuilding,-1,Brown,206,0
+150,Dwarves,0,PlaceMinion_PlaceMinion,-1,Brown,299,0
+151,Edward d'Eath,0,Assassination_TakeMoney$3_PlaceBuilding,-1,Brown,242,0

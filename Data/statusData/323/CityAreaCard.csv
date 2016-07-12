@@ -1,0 +1,13 @@
+id,name,ability,playerID
+1,Dolly Sisters,Once per turn you can pay $3 and place one of your minions in Dolly Sisters or an adjacent area.,-1
+2,Unreal Estate,Once per turn you can draw one card and then discard a card.,-1
+3,Dragon's Landing,Once per turn you can take $2 from the bank.,-1
+4,Small Gods,Whenever one of your minions or buildings is affected by a random event you can pay $3 to ignore the effect. If more than one piece is affected then you must pay $3 for each piece you wish to protect.,-1
+5,The Scours,Once per turn you can discard one card and take $2 from the bank.,1
+6,The Hippo,Once per turn you can take $2 from the bank.,3
+7,The Shades,At any point in your turn you can place one trouble marker in The Shades or an adjacent area (area must contain at least one minion).,1
+8,Dimwell,Once per turn you can pay $3 and place one of your minions in Dimwell or an adjacent area.,0
+9,Longwall,Once per turn you can take $1 from the bank.,-1
+10,Isle of Gods,Once per turn you can pay $2 to remove one trouble marker from the board.,-1
+11,Seven Sleepers,Once per turn you can take $3 from the bank.,1
+12,Nap Hill,Once per turn you can take $1 from the bank.,-1

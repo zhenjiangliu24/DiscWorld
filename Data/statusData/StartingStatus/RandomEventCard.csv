@@ -1,0 +1,13 @@
+id,name,effect,playerID,order,used
+1,The Dragon,Roll the die to determine which area on the board will be hit by the dragon.,-1,0,0
+2,Flood,Roll the die twice to see which areas are affected by flood.,-1,0,0
+3,Fire,Roll the die to establish the area of the fire.,-1,0,0
+4,Fog,Draw and discard the top five cards from the draw pile.,-1,0,0
+5,Riots,If there are eight or more trouble markers on the board then the game ends immediately.,-1,0,0
+6,Explosion,Roll the die and remove any building in the area of the same number.,-1,0,0
+7,Mysterious Muders!,You roll one die and remove a minion of your choice from the area of the same number.,-1,0,0
+8,Demons from the Dungeon Dimensions,Roll the die four times and place one demon minion piece in each of the areas matching the numbers rolled.,-1,0,1
+9,Subsidence,All players must pay $2 for each building they have on the board.,-1,0,0
+10,Bloody Stupid Johnson,Roll the die. If the City Area Card of the same number is in play then it is set to one side and is no longer in the game,-1,0,0
+11,Trolls,Roll the die three times and place one troll piece in each area of the same number.,-1,0,1
+12,Earthquake,Roll the die twice and remove any buildings from the areas of the same number.,-1,0,0

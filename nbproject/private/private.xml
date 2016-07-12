@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/View/InitView.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Controller/Utils.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Controller/BasicFunction.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Factory/CityAreaCardFactory.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Controller/fileIsExist.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Model/Color.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Controller/WinningConditionFunction.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Behavior/Scroll.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Controller/SaveCSV.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Controller/InterruptCard.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Behavior/Action.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Model/card/Card.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Behavior/RemoveTroubleMarker.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Model/player/Player.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Model/ConstantField.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Behavior/Assassination.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Factory/PersonalityCardFactory.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Behavior/TakeMoney.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Controller/CardFunction.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Controller/MoneyFunction.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Factory/RandomEventCardFactory.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Factory/PlayerCardFactory.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Controller/LoadCSV.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Model/card/GreenPlayerCard.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Behavior/PlayAnotherCard.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/View/MainFrame.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Behavior/PlaceMinion.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Behavior/Interrupt.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Behavior/RandomEvent.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Controller/PieceFunction.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Model/DiscWorld.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Behavior/PlaceBuilding.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Controller/PlayerGetCard.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Model/card/RandomEventCard.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Model/card/PlayerCard.java</file>
+            <file>file:/D:/Documents/soen6441demo/DiscWord/src/Model/area/Area.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,13 @@
+number,nameplate,buildingCost,adjacent
+1,Dolly Sisters,6,12_2_3
+2,Unreal Estate,17,12_2_3
+3,Dragon's Landing,12,1_2_4
+4,Small Gods,17,10_2_5_6_3
+5,The Scours,6,7_6_4_10
+6,The Hippo,12,7_5_4
+7,The Shades,6,5_6_8
+8,Dimwell,6,5_7_9
+9,Longwall,12,8_10_11
+10,Isle of Gods,12,2_4_5_9_11
+11,Seven Sleepers,17,2_9_10_12
+12,Nap Hill,12,1_2_11
